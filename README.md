@@ -1,0 +1,4 @@
+gbili
+=====
+
+Javascript common functionallity
